@@ -46,7 +46,7 @@
     "cloudinary": "^1.16.0",
     "cookie-parser": "^1.4.4",
     "crypto": "^1.0.1",
-    "cryptr": "^4.0.2",
+    "cryptr": "^6.0.2",
     "dotenv": "^8.2.0",
     "ejs": "^2.7.1",
     "ejs-lint": "^0.3.0",
